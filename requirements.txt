@@ -1,7 +1,0 @@
-dash
-dash-bootstrap-components
-yfinance
-numpy
-pandas
-plotly
-gunicorn
