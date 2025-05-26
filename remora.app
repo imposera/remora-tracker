@@ -8,6 +8,7 @@ import yfinance as yf
 import numpy as np
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
+server = app.server
 
 # Only tracking WES Tail Hedge
 warrants_data = {
