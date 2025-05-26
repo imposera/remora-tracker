@@ -2,3 +2,4 @@ dash
 plotly
 yfinance
 numpy
+gunicorn
